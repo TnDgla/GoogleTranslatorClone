@@ -98,10 +98,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Fetch Google Translation API key and configure the app.
      - **Reading:** [Google Cloud Translation API](https://cloud.google.com/translate/docs)  
-     - **Video:** [Using Google APIs](https://www.youtube.com/watch?v=7vX4iRSgMwA)  
+     - **Video:** [Using Google APIs](https://www.youtube.com/watch?v=wfpzXuyXbpA&list=PLJZ0WUmS5UBYrsGnKjzX3LVVWsTF-vvkh)  
   2. Implement API calls to fetch translations.
      - **Reading:** [Fetch API Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)  
-     - **Video:** [Making API Calls in React](https://www.youtube.com/watch?v=JnEH9tYLxLk)  
+     - **Video:** [Making API Calls in React](https://www.youtube.com/watch?v=cIqgQn-XBIQ)  
 - **Deliverables:**
   - Functional translation feature integrated with Google Translation API.
 
