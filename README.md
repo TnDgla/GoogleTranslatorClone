@@ -2,7 +2,7 @@
 
 ### **Google Translate Clone Web App: Multilingual Text Translation**
 
-**Google Translate Clone** is a web application inspired by Google's translation service, offering text translation using Material-UI and Google Translation API. The app features a responsive UI, input/output fields, and multilingual support.
+Google Translate Clone is a web application inspired by Google's translation service, offering text translation using Material-UI and Google Translation API. The app features a responsive UI, input/output fields, and multilingual support.
 
 ---
 
