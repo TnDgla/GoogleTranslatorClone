@@ -46,9 +46,8 @@ This section illustrates the complete workflow for the Google Translate Clone ap
 
 #### **Flowchart**
 - The flowchart visualizes the process of user input, API requests, and response handling within the application.
+![image](https://github.com/user-attachments/assets/79f3ede7-6bca-4414-9a3b-921f2c8da047)
 
-![System Architecture](https://via.placeholder.com/800x400)
-![Flowchart](https://via.placeholder.com/800x400)
 
 ---
 
@@ -129,7 +128,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=3e1GHCA3GP0)  
   2. Deploy the app using Netlify or Vercel.
      - **Reading:** [Netlify Deployment Docs](https://docs.netlify.com/)  
-     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=17Z0LGjn6Z8)  
+     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=AP0fKMrmyKA)  
 - **Deliverables:**
   - A live and publicly accessible Google Translate Clone web app.
 
