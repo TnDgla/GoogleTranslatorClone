@@ -73,7 +73,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Material-UI Tutorial](https://www.youtube.com/watch?v=vyJU9efvUtQ)  
   3. Design a responsive header with Material-UI components.
      - **Reading:** [Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
-     - **Video:** [Responsive Header Design](https://www.youtube.com/watch?v=rg7Fvvl3taU)  
+     - **Video:** [Responsive Header Design](https://www.youtube.com/watch?v=u044iM9xsWU)  
 - **Deliverables:**
   - Basic project setup with a responsive header.
 
