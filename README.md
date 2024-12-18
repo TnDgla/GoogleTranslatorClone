@@ -147,6 +147,5 @@ This project is structured to ensure a systematic and incremental development pr
 2. [Material-UI Documentation](https://mui.com/)
 3. [Google Cloud Translation API](https://cloud.google.com/translate/docs)
 4. [Netlify Deployment Docs](https://docs.netlify.com/)
-
-
-
+5. https://github.com/Geek24YT/GoogleTranslateClone
+6. https://www.youtube.com/watch?v=SFXJUy_WFAg
