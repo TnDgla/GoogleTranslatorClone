@@ -112,10 +112,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Style the app using Material-UI themes and CSS-in-JS.
      - **Reading:** [Material-UI Styling Guide](https://mui.com/system/basics/)  
-     - **Video:** [Material-UI Themes](https://www.youtube.com/watch?v=Xb9kEp0Jcnw)  
+     - **Video:** [Material-UI Themes](https://www.youtube.com/watch?v=HsdjivqQ7BA)  
   2. Ensure mobile responsiveness using media queries.
      - **Reading:** [Responsive Design with Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)  
-     - **Video:** [Building Responsive UIs](https://www.youtube.com/watch?v=5fAjlP8yxZ8)  
+     - **Video:** [Building Responsive UIs](https://www.youtube.com/watch?v=eHye3PxH4jU)  
 - **Deliverables:**
   - A fully styled and responsive application.
 
