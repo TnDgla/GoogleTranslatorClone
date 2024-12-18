@@ -84,10 +84,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Add input and output text fields using Material-UI.
      - **Reading:** [Material-UI Input Component](https://mui.com/material-ui/react-text-field/)  
-     - **Video:** [Text Fields in Material-UI](https://www.youtube.com/watch?v=p7vIDmdmPlA)  
+     - **Video:** [Text Fields in Material-UI](https://www.youtube.com/watch?v=BS2hOxbXMgw)  
   2. Add placeholder text and validation for empty fields.
-     - **Reading:** [Form Validation in React](https://react.dev/learn/forms)  
-     - **Video:** [React Form Validation](https://www.youtube.com/watch?v=uoP1QZViYGA)  
+     - **Reading:** [Form Validation in React](https://codewithpawan.medium.com/form-validation-in-react-a-comprehensive-guide-with-examples-c12e1c8671f2)  
+     - **Video:** [React Form Validation](https://www.youtube.com/watch?v=EYpdEYK25Dc&t=45s)  
 - **Deliverables:**
   - Input and output fields for text translation.
 
